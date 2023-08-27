@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<h1 align="center">Hi 👋, I'm Milad Panahi</h1>
+<h3 align="center">A passionate early stage researcher</h3>
 
-You can use the [editor on GitHub](https://github.com/MiladPnh/MiladPnh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miladpnh&label=Profile%20views&color=0e75b6&style=flat" alt="miladpnh" /> </p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miladpnh" alt="miladpnh" /></a> </p>
 
-### Markdown
+<p align="left"> <a href="https://twitter.com/mio_silouette" target="blank"><img src="https://img.shields.io/twitter/follow/mio_silouette?logo=twitter&style=for-the-badge" alt="mio_silouette" /></a> </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 I’m currently working on [REMEDI - an Innovative Training Network (ITN) funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Action (MSCA) framework - Trapping and Removal of X-ray Contrast Medium agents from water resource and stream Sediments - New Concepts in Trapping, Recycling and Management](https://warwick.ac.uk/fac/sci/eng/remedi/)
 
-```markdown
-Syntax highlighted code block
+- 👯 I’m looking to contribute to SciML community - Scientific Machine Learning where physical science and machine learning merge together
 
-# Header 1
-## Header 2
-### Header 3
+- 👨‍💻 All of my projects are available at [https://www.mipore.polimi.it/dt_team/milad-panahi/](https://www.mipore.polimi.it/dt_team/milad-panahi/)
 
-- Bulleted
-- List
+- 📝 I regularly write articles on [https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ&view_op=list_works&gmla=AJsN-F6CC5we-mmK61KUzSGaRxnP9RGwPgdqoV2-ex7GwB_aEF4UhNcSQUxJZMsM3WIBrMzBhvBMsagAo8y96r-y8ibt5najawVUY9BCPFzMpzML-v2T0us](https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ&view_op=list_works&gmla=AJsN-F6CC5we-mmK61KUzSGaRxnP9RGwPgdqoV2-ex7GwB_aEF4UhNcSQUxJZMsM3WIBrMzBhvBMsagAo8y96r-y8ibt5najawVUY9BCPFzMpzML-v2T0us)
 
-1. Numbered
-2. List
+- 💬 Ask me about PINNs - Physics Informed Neural Networks
 
-**Bold** and _Italic_ and `Code` text
+- 📫 How to reach me Milad.panahi@polimi.it
 
-[Link](url) and ![Image](src)
-```
+- ⚡ Fun fact I read Jack London's Call of the Wild at Jack London's Rendezvous
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mio_silouette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mio_silouette" height="30" width="40" /></a>
+</p>
 
-### Jekyll Themes
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiladPnh/MiladPnh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miladpnh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="miladpnh" /></p>
 
-### Support or Contact
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miladpnh&show_icons=true&locale=en" alt="miladpnh" /></p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miladpnh&" alt="miladpnh" /></p>
