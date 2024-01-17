@@ -18,6 +18,7 @@
 - 💬 Ask me about PINNs - Physics Informed Neural Networks
 
 - 📫 How to reach me Milad.panahi@polimi.it
+- https://orcid.org/0000-0002-8776-5297
 
 - ⚡ Fun fact I read Jack London's Call of the Wild at Jack London's Rendezvous
 
