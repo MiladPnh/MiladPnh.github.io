@@ -19,6 +19,9 @@
 
 - 📫 How to reach me Milad.panahi@polimi.it
 - ORCiD Page: https://orcid.org/0000-0002-8776-5297
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ&view_op=list_works&gmla=AJsN-F6CC5we-mmK61KUzSGaRxnP9RGwPgdqoV2-ex7GwB_aEF4UhNcSQUxJZMsM3WIBrMzBhvBMsagAo8y96r-y8ibt5najawVUY9BCPFzMpzML-v2T0us
+- Research Page: https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/
+
 
 - ⚡ Fun fact I read Jack London's Call of the Wild at Jack London's Rendezvous
 
