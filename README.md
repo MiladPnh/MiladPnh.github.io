@@ -47,11 +47,19 @@ I am a first-year PhD candidate at the Department of Civil and Environmental Eng
 </p>
 
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Languages, Tools, and Technologies:</h3>
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- MATLAB -->
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+  </a>
+  <!-- Mathematica -->
+  <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/wolfram/wolfram-icon.svg" alt="mathematica" width="40" height="40"/>
   </a>
   <!-- SQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -64,21 +72,41 @@ I am a first-year PhD candidate at the Department of Civil and Environmental Eng
   <!-- PyTorch -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <!-- Apache Hadoop -->
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/>
+  </a>
+  <!-- Apache Spark -->
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
   </a>
   <!-- Docker -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <!-- AWS -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
 </p>
+
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p>
