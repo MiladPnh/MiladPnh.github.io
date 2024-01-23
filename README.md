@@ -35,7 +35,7 @@ I am a first-year PhD candidate at the Department of Civil and Environmental Eng
 - [My Scholarly Publications](https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ&view_op=list_works&gmla=AJsN-F6CC5we-mmK61KUzSGaRxnP9RGwPgdqoV2-ex7GwB_aEF4UhNcSQUxJZMsM3WIBrMzBhvBMsagAo8y96r-y8ibt5najawVUY9BCPFzMpzML-v2T0us)
 
 ### 💬 Ask Me About:
-- PINNs - Physics Informed Neural Networks
+- Scientific Machine Learning & PINNs - Physics Informed Neural Networks
 
 ### ⚡ Fun Fact:
 - I read Jack London's "Call of the Wild" at Jack London's Rendezvous.
@@ -45,12 +45,6 @@ I am a first-year PhD candidate at the Department of Civil and Environmental Eng
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mio_silouette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mio_silouette" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-... [INCLUDE OTHER TOOLS AND LANGUAGES HERE]
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
