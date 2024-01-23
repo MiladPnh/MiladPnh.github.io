@@ -25,7 +25,6 @@ I am a first-year PhD candidate at the Department of Civil and Environmental Eng
 
 ### 🌐 Connect with Me:
 - 📧 Email: Milad.panahi@polimi.it
-- 📚 Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ)
 - 🔗 ORCiD: [Page](https://orcid.org/0000-0002-8776-5297)
 - 🌟 Research Page: [REMEDI Network](https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/)
 - 👨‍💻 Projects: [MIPORE Research Group](https://www.mipore.polimi.it/dt_team/milad-panahi/)
