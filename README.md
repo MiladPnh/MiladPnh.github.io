@@ -16,7 +16,7 @@
 ---
 
 ### 📌 About Me:
-I am a first-year PhD candidate at the Department of Civil and Environmental Engineering at Politecnico di Milano. My journey began at Sharif University of Technology (SUT), leading me to the University of Arizona, and now to MIPORE research group. Throughout my research career, I've been fortunate to receive support from prestigious institutions like NASA and the Marie Skłodowska-Curie European Industrial Doctorate (EID) programme. My research intersects Probabilistic Machine Learning and Data-Driven Scientific Computing, focusing on leveraging physics-inspired machine learning methods for Geo-Hydrologic systems. Currently, I'm part of [REMEDI - an Innovative Training Network (ITN)](https://warwick.ac.uk/fac/sci/eng/remedi/) funded by the European Union’s Horizon 2020 program.
+I am a third-year PhD candidate at the Department of Civil and Environmental Engineering at Politecnico di Milano. My journey began at Sharif University of Technology (SUT), leading me to the University of Arizona, and now to MIPORE research group. Throughout my research career, I've been fortunate to receive support from prestigious institutions like NASA and the Marie Skłodowska-Curie European Industrial Doctorate (EID) programme. My research intersects Probabilistic Machine Learning and Data-Driven Scientific Computing, focusing on leveraging physics-inspired machine learning methods for Geo-Hydrologic systems. Currently, I'm part of [REMEDI - an Innovative Training Network (ITN)](https://warwick.ac.uk/fac/sci/eng/remedi/) funded by the European Union’s Horizon 2020 program.
 
 ### 💼 What I'm working on:
 - 🔭 PhD research on leveraging physics-inspired machine learning methods for Geo-Hydrologic dynamical systems.
@@ -28,7 +28,7 @@ I am a first-year PhD candidate at the Department of Civil and Environmental Eng
 - 🔗 ORCiD: [Page](https://orcid.org/0000-0002-8776-5297)
 - 🌟 Research Page: [REMEDI Network](https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/)
 - 👨‍💻 Projects: [MIPORE Research Group](https://www.mipore.polimi.it/dt_team/milad-panahi/)
-- 💼 LinkedIn: [Profile](YOUR_LINKEDIN_URL_HERE)
+- 💼 LinkedIn: [Profile](www.linkedin.com/in/milad-panahi-318aa0321)
 
 ### ✍️ Latest Articles:
 - [My Scholarly Publications](https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ&view_op=list_works&gmla=AJsN-F6CC5we-mmK61KUzSGaRxnP9RGwPgdqoV2-ex7GwB_aEF4UhNcSQUxJZMsM3WIBrMzBhvBMsagAo8y96r-y8ibt5najawVUY9BCPFzMpzML-v2T0us)
