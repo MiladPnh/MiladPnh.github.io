@@ -16,7 +16,14 @@
 ---
 
 ### 📌 About Me:
-I am a third-year PhD candidate at the Department of Civil and Environmental Engineering at Politecnico di Milano. My journey began at Sharif University of Technology (SUT), leading me to the University of Arizona, and now to MIPORE research group. Throughout my research career, I've been fortunate to receive support from prestigious institutions like NASA and the Marie Skłodowska-Curie European Industrial Doctorate (EID) programme. My research intersects Probabilistic Machine Learning and Data-Driven Scientific Computing, focusing on leveraging physics-inspired machine learning methods for Geo-Hydrologic systems. Currently, I'm part of [REMEDI - an Innovative Training Network (ITN)](https://warwick.ac.uk/fac/sci/eng/remedi/) funded by the European Union’s Horizon 2020 program.
+I am a third-year PhD candidate in Civil and Environmental Engineering at Politecnico di Milano, specializing in Scientific Machine Learning and Data-Driven Scientific Computing for Geo-Hydro-Chemical systems. My research leverages physics-informed machine learning to enhance modeling and uncertainty quantification in subsurface hydrology, bridging the gap between theoretical advancements and real-world applications.
+
+My academic journey began at Sharif University of Technology (SUT), where I earned my bachelor’s degree in Civil Engineering. I then continued my research in Hydrometeorology at the University of Arizona, before joining the MIPORE research group at Politecnico di Milano. Along the way, I have been fortunate to receive funding from NASA and the prestigious Marie Skłodowska-Curie European Industrial Doctorate (EID) programme, recognizing the impact of my work at the intersection of computational science and engineering.
+
+Currently, I am part of [REMEDI - an Innovative Training Network (ITN)](https://warwick.ac.uk/fac/sci/eng/remedi/), an EU-funded Innovative Training Network (ITN) under Horizon 2020, where I collaborate with both academic institutions and industry partners to develop cutting-edge methodologies for environmental and geoscience applications. My work focuses on integrating uncertainty-aware, physics-based AI models with real-world data, aiming to advance sustainable decision-making in environmental engineering and risk assessment.
+
+I am always eager to connect with researchers, industry professionals, and organizations looking to explore the transformative potential of AI-driven modeling in engineering and the environmental sciences. Let’s discuss how data-driven insights and physics-inspired AI can drive innovation in your field.
+
 
 ### 💼 What I'm working on:
 - 🔭 PhD research on leveraging physics-inspired machine learning methods for Geo-Hydrologic dynamical systems.
