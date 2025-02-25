@@ -36,6 +36,10 @@ I am always eager to connect with researchers, industry professionals, and organ
 - 🌟 Research Page: [REMEDI Network](https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/)
 - 👨‍💻 Projects: [MIPORE Research Group](https://www.mipore.polimi.it/dt_team/milad-panahi/)
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/miladpnh)
+- <h3 align="left">🔗 :</h3>
+<p align="left">
+<a href="https://twitter.com/mio_silouette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mio_silouette" height="30" width="40" /></a>
+</p>
 
 
 ### ✍️ Latest Articles:
@@ -56,10 +60,7 @@ You can view my CV **[here](https://github.com/miladpnh/MiladPnh.github.io/blob/
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mio_silouette" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mio_silouette" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">🛠 Languages, Tools, and Technologies:</h3>
