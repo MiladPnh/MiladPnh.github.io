@@ -40,7 +40,8 @@ I am a third-year PhD candidate at the Department of Civil and Environmental Eng
 - I read Jack London's "Call of the Wild" at Jack London's Rendezvous.
 
 ### 📄 My CV  
-<iframe src="https://github.com/miladpnh/main/CV.pdf" width="100%" height="600px"></iframe>
+You can view or download my CV [here](https://github.com/miladpnh/MiladPnh.github.io/raw/main/CV.pdf).
+
 
 
 ---
