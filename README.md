@@ -28,7 +28,7 @@ Currently, I am part of [REMEDI - an Innovative Training Network (ITN)](https://
 
 I am always eager to connect with researchers, industry professionals, and organizations looking to explore the transformative potential of AI-driven modeling in engineering and the environmental sciences. Let’s discuss how data-driven insights and physics-inspired AI can drive innovation in your field.
 
-
+🔗 Let’s discuss how physics-inspired AI and data-driven insights can drive innovation in your field!
 
 ### 💼 What I'm working on:
 - 🔭 PhD research on leveraging physics-inspired machine learning methods for Geo-Hydrologic dynamical systems.
