@@ -16,13 +16,18 @@
 ---
 
 ### 📌 About Me:
+
+
 I am a third-year PhD candidate in Civil and Environmental Engineering at Politecnico di Milano, specializing in Scientific Machine Learning and Data-Driven Scientific Computing for Geo-Hydro-Chemical systems. My research leverages physics-informed machine learning to enhance modeling and uncertainty quantification in subsurface hydrology, bridging the gap between theoretical advancements and real-world applications.
 
-My academic journey began at Sharif University of Technology (SUT), where I earned my bachelor’s degree in Civil Engineering. I then continued my research in Hydrometeorology at the University of Arizona, before joining the MIPORE research group at Politecnico di Milano. Along the way, I have been fortunate to receive funding from NASA and the prestigious Marie Skłodowska-Curie European Industrial Doctorate (EID) programme, recognizing the impact of my work at the intersection of computational science and engineering.
+My academic journey began at Sharif University of Technology (SUT), where I earned my bachelor’s degree in Civil Engineering. I then pursued research in Hydrometeorology at the University of Arizona, before joining the MIPORE research group at Politecnico di Milano. Throughout my career, I have been fortunate to be mentored by leading experts in the field, including  [Prof. Hoshin Gupta](https://profiles.arizona.edu/person/hoshin), a pioneer in Dynamical Systems Modeling and Systems Theory, and [Prof. Alberto Guadagnini](https://www.mipore.polimi.it/dt_team/alberto-guadagnini/), a renowned researcher in subsurface flow and stochastic hydrogeology. Their guidance has been instrumental in shaping my scientific approach, blending rigorous theory with impactful, data-driven applications.
+
+Along the way, I have had the privilege of receiving funding from NASA and the prestigious Marie Skłodowska-Curie European Industrial Doctorate (EID) programme, recognizing the significance of my work at the intersection of computational science and engineering.
 
 Currently, I am part of [REMEDI - an Innovative Training Network (ITN)](https://warwick.ac.uk/fac/sci/eng/remedi/), an EU-funded Innovative Training Network (ITN) under Horizon 2020, where I collaborate with both academic institutions and industry partners to develop cutting-edge methodologies for environmental and geoscience applications. My work focuses on integrating uncertainty-aware, physics-based AI models with real-world data, aiming to advance sustainable decision-making in environmental engineering and risk assessment.
 
 I am always eager to connect with researchers, industry professionals, and organizations looking to explore the transformative potential of AI-driven modeling in engineering and the environmental sciences. Let’s discuss how data-driven insights and physics-inspired AI can drive innovation in your field.
+
 
 
 ### 💼 What I'm working on:
