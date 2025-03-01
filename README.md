@@ -53,7 +53,7 @@ I am always eager to connect with researchers, industry professionals, and organ
 
 
 ### 📄 My CV  
-You can view my CV **[here](https://github.com/miladpnh/MiladPnh.github.io/blob/main/CV.pdf)**.
+You can view my CV **[here](https://github.com/miladpnh/MiladPnh.github.io/blob/main/Milad_Panahi_CV.pdf)**.
 
 
 
