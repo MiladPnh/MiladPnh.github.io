@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Milad Panahi - Researcher Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet" />
+  <style>
+    /* Reset & Base */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Montserrat', sans-serif; line-height: 1.6; background: #fff; color: #333; }
+    
+    /* Header */
+    header {
+      background: #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+    }
+    nav { display: flex; justify-content: space-between; align-items: center; padding: 1rem 2rem; }
+    nav a { text-decoration: none; color: #333; margin: 0 1rem; font-weight: 600; }
+    nav a:hover { color: #e91e63; }
+
+    /* Hero Section */
+    .hero {
+      text-align: center;
+      padding: 120px 20px 60px;
+      background: #f9f9f9;
+      margin-top: 70px;
+    }
+    .hero h1 { font-size: 3rem; margin-bottom: 10px; }
+    .hero h3 { font-size: 1.5rem; color: #777; margin-bottom: 20px; }
+    .social-icons img { margin: 0 5px; vertical-align: middle; }
+
+    /* Main Content */
+    .container { max-width: 1200px; margin: auto; padding: 20px; }
+    section { padding: 60px 0; border-bottom: 1px solid #eee; }
+    section:last-of-type { border-bottom: none; }
+    h2 { margin-bottom: 20px; }
+    p, li { margin-bottom: 15px; }
+    ul { list-style-type: disc; margin-left: 20px; }
+    
+    /* Tech Icons */
+    .tech-icons a { margin: 0 5px 10px 0; display: inline-block; }
+    .tech-icons img { vertical-align: middle; }
+
+    /* GitHub Stats */
+    .stats img { margin: 10px 5px; max-width: 100%; height: auto; }
+
+    /* Footer */
+    .footer { text-align: center; padding: 20px 0; color: #777; }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <div class="logo"><a href="#">Milad Panahi</a></div>
+      <div class="menu">
+        <a href="#about">About</a>
+        <a href="#work">Work</a>
+        <a href="#articles">Articles</a>
+        <a href="#connect">Connect</a>
+      </div>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Hi 👋, I'm Milad Panahi</h1>
+    <h3>A Passionate Early Stage Researcher</h3>
+    <div class="social-icons">
+      <a href="https://github.com/miladpnh" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=miladpnh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+      </a>
+      <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+        <img src="https://github-profile-trophy.vercel.app/?username=miladpnh" alt="Profile Trophy" />
+      </a>
+      <a href="https://twitter.com/mio_silouette" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/mio_silouette?logo=twitter&style=for-the-badge" alt="Twitter" />
+      </a>
+    </div>
+  </section>
+
+  <div class="container">
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I am a third-year PhD candidate in Civil and Environmental Engineering at Politecnico di Milano, specializing in Scientific Machine Learning and Data-Driven Scientific Computing for Geo-Hydro-Chemical systems. My research leverages physics-informed machine learning to enhance modeling and uncertainty quantification in subsurface hydrology, bridging the gap between theoretical advancements and real-world applications.
+      </p>
+      <p>
+        My academic journey began at Sharif University of Technology (SUT), where I earned my bachelor’s degree in Civil Engineering. I then pursued research in Hydrometeorology at the University of Arizona, before joining the MIPORE research group at Politecnico di Milano. Throughout my career, I have been fortunate to be mentored by leading experts in the field, including 
+        <a href="https://scholar.google.com/citations?user=eirzNSoAAAAJ&hl=en" target="_blank">Prof. Hoshin Gupta</a> and 
+        <a href="https://www.mipore.polimi.it/dt_team/alberto-guadagnini/" target="_blank">Prof. Alberto Guadagnini</a>. Their guidance has been instrumental in shaping my scientific approach.
+      </p>
+      <p>
+        I have received funding from NASA and the prestigious Marie Skłodowska-Curie European Industrial Doctorate (EID) programme, recognizing the significance of my work at the intersection of computational science and engineering.
+      </p>
+      <p>
+        Currently, I am part of <a href="https://warwick.ac.uk/fac/sci/eng/remedi/" target="_blank">REMEDI - an Innovative Training Network (ITN)</a>, where I collaborate with academic institutions and industry partners to develop cutting-edge methodologies for environmental and geoscience applications.
+      </p>
+      <p>
+        I am always eager to connect with researchers, industry professionals, and organizations to explore the transformative potential of AI-driven modeling in engineering and environmental sciences.
+      </p>
+    </section>
+
+    <section id="work">
+      <h2>What I'm Working On</h2>
+      <ul>
+        <li>🔭 PhD research on leveraging physics-inspired machine learning methods for Geo-Hydrologic dynamical systems.</li>
+        <li>👯 Contributing to the SciML community - where physical science and machine learning converge.</li>
+        <li>🌱 Learning about Bayesian networks, Gaussian process kernels, and more.</li>
+      </ul>
+    </section>
+
+    <section id="connect">
+      <h2>Connect with Me</h2>
+      <ul>
+        <li>Email: <a href="mailto:Milad.panahi@polimi.it">Milad.panahi@polimi.it</a></li>
+        <li>ORCiD: <a href="https://orcid.org/0000-0002-8776-5297" target="_blank">Page</a></li>
+        <li>Research Page: <a href="https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/" target="_blank">REMEDI Network</a></li>
+        <li>Projects: <a href="https://www.mipore.polimi.it/dt_team/milad-panahi/" target="_blank">MIPORE Research Group</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/miladpnh" target="_blank">Profile</a></li>
+      </ul>
+    </section>
+
+    <section id="articles">
+      <h2>Latest Articles</h2>
+      <ul>
+        <li>
+          <a href="https://scholar.google.com/citations?hl=en&user=OUdlvwwAAAAJ&view_op=list_works&gmla=AJsN-F6CC5we-mmK61KUzSGaRxnP9RGwPgdqoV2-ex7GwB_aEF4UhNcSQUxJZMsM3WIBrMzBhvBMsagAo8y96r-y8ibt5najawVUY9BCPFzMpzML-v2T0us" target="_blank">
+            My Scholarly Publications
+          </a>
+        </li>
+      </ul>
+    </section>
+
+    <section id="extra">
+      <h2>Ask Me About</h2>
+      <p>Scientific Machine Learning &amp; PINNs - Physics Informed Neural Networks</p>
+      
+      <h2>Fun Fact</h2>
+      <p>I read Jack London's "Call of the Wild" at Jack London's Rendezvous.</p>
+      
+      <h2>My CV</h2>
+      <p>You can view my CV <a href="https://github.com/miladpnh/MiladPnh.github.io/blob/main/Milad_Panahi_CV.pdf" target="_blank">here</a>.</p>
+    </section>
+
+    <section id="technologies">
+      <h2>Languages, Tools, and Technologies</h2>
+      <div class="tech-icons">
+        <!-- Python -->
+        <a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        <!-- R Programming -->
+        <a href="https://www.r-project.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+        </a>
+        <!-- Jupyter Notebook -->
+        <a href="https://jupyter.org/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="40" height="40"/>
+        </a>
+        <!-- Pandas -->
+        <a href="https://pandas.pydata.org/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/pandas/pandas-icon.svg" alt="Pandas" width="40" height="40"/>
+        </a>
+        <!-- NumPy -->
+        <a href="https://numpy.org/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="40" height="40"/>
+        </a>
+        <!-- SciPy -->
+        <a href="https://scipy.org/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="SciPy" width="40" height="40"/>
+        </a>
+        <!-- Scikit-Learn -->
+        <a href="https://scikit-learn.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+        </a>
+        <!-- ElasticSearch -->
+        <a href="https://www.elastic.co/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" height="40"/>
+        </a>
+        <!-- MATLAB -->
+        <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
+        </a>
+        <!-- Mathematica -->
+        <a href="https://www.wolfram.com/mathematica/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/wolfram/wolfram-icon.svg" alt="mathematica" width="40" height="40"/>
+        </a>
+        <!-- SQL -->
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        </a>
+        <!-- TensorFlow -->
+        <a href="https://www.tensorflow.org" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+        </a>
+        <!-- PyTorch -->
+        <a href="https://pytorch.org/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+        </a>
+        <!-- Linux -->
+        <a href="https://www.linux.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+        </a>
+        <!-- Apache Hadoop -->
+        <a href="https://hadoop.apache.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/>
+        </a>
+        <!-- Apache Spark -->
+        <a href="https://spark.apache.org/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
+        </a>
+        <!-- Docker -->
+        <a href="https://www.docker.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        </a>
+        <!-- AWS -->
+        <a href="https://aws.amazon.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+        </a>
+        <!-- HTML5 -->
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        </a>
+        <!-- Git -->
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        </a>
+        <!-- Django -->
+        <a href="https://www.djangoproject.com/" target="_blank">
+          <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+        </a>
+      </div>
+    </section>
+
+    <section id="stats">
+      <h2>GitHub Stats</h2>
+      <div class="stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladpnh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=miladpnh&show_icons=true&locale=en" alt="GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=miladpnh&" alt="Streak Stats">
+      </div>
+    </section>
+  </div>
+
+  <footer class="footer">
+    <p>© 2025 Milad Panahi. All rights reserved.</p>
+  </footer>
+</body>
+</html>
