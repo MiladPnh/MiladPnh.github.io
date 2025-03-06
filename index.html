@@ -10,7 +10,7 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     html { scroll-behavior: smooth; }
     body { font-family: 'Montserrat', sans-serif; line-height: 1.6; background: #fff; color: #333; }
-    
+
     /* Sidebar Navigation */
     .sidebar {
       position: fixed;
@@ -49,12 +49,12 @@
     .sidebar nav ul li a.active {
       color: #e91e63;
     }
-    
+
     /* Main Content */
     .main-content {
       margin-left: 260px; /* sidebar width + gap */
     }
-    
+
     /* Hero Section */
     .hero {
       text-align: center;
@@ -64,24 +64,32 @@
     .hero h1 { font-size: 3rem; margin-bottom: 10px; }
     .hero h3 { font-size: 1.5rem; color: #777; margin-bottom: 20px; }
     .social-icons img { margin: 0 5px; vertical-align: middle; }
-    
+
     /* Container & Sections */
     .container { max-width: 1200px; margin: auto; padding: 20px; }
-    section { padding: 60px 0; border-bottom: 1px solid #eee; 
-              opacity: 0; transform: translateY(20px); transition: opacity 0.6s ease, transform 0.6s ease; }
-    section.visible { opacity: 1; transform: translateY(0); }
+    section {
+      padding: 60px 0;
+      border-bottom: 1px solid #eee;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
     section:last-of-type { border-bottom: none; }
     h2 { margin-bottom: 20px; }
     p, li { margin-bottom: 15px; }
     ul { list-style-type: disc; margin-left: 20px; }
-    
+
     /* Tech Icons */
     .tech-icons a { margin: 0 5px 10px 0; display: inline-block; }
     .tech-icons img { vertical-align: middle; }
-    
+
     /* GitHub Stats */
     .stats img { margin: 10px 5px; max-width: 100%; height: auto; }
-    
+
     /* Footer */
     .footer { text-align: center; padding: 20px 0; color: #777; }
   </style>
@@ -152,17 +160,6 @@
         </ul>
       </section>
 
-      <section id="connect">
-        <h2>Connect with Me</h2>
-        <ul>
-          <li>Email: <a href="mailto:Milad.panahi@polimi.it">Milad.panahi@polimi.it</a></li>
-          <li>ORCiD: <a href="https://orcid.org/0000-0002-8776-5297" target="_blank">Page</a></li>
-          <li>Research Page: <a href="https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/" target="_blank">REMEDI Network</a></li>
-          <li>Projects: <a href="https://www.mipore.polimi.it/dt_team/milad-panahi/" target="_blank">MIPORE Research Group</a></li>
-          <li>LinkedIn: <a href="https://www.linkedin.com/in/miladpnh" target="_blank">Profile</a></li>
-        </ul>
-      </section>
-
       <section id="articles">
         <h2>Latest Articles</h2>
         <ul>
@@ -174,13 +171,24 @@
         </ul>
       </section>
 
+      <section id="connect">
+        <h2>Connect with Me</h2>
+        <ul>
+          <li>Email: <a href="mailto:Milad.panahi@polimi.it">Milad.panahi@polimi.it</a></li>
+          <li>ORCiD: <a href="https://orcid.org/0000-0002-8776-5297" target="_blank">Page</a></li>
+          <li>Research Page: <a href="https://warwick.ac.uk/fac/sci/eng/remedi/network/esr/" target="_blank">REMEDI Network</a></li>
+          <li>Projects: <a href="https://www.mipore.polimi.it/dt_team/milad-panahi/" target="_blank">MIPORE Research Group</a></li>
+          <li>LinkedIn: <a href="https://www.linkedin.com/in/miladpnh" target="_blank">Profile</a></li>
+        </ul>
+      </section>
+
       <section id="extra">
         <h2>Ask Me About</h2>
         <p>Scientific Machine Learning &amp; PINNs - Physics Informed Neural Networks</p>
-        
+
         <h2>Fun Fact</h2>
         <p>I read Jack London's "Call of the Wild" at Jack London's Rendezvous.</p>
-        
+
         <h2>My CV</h2>
         <p>You can view my CV <a href="https://github.com/miladpnh/MiladPnh.github.io/blob/main/Milad_Panahi_CV.pdf" target="_blank">here</a>.</p>
       </section>
@@ -254,4 +262,61 @@
           </a>
           <!-- Docker -->
           <a href="https://www.docker.com/" target="_blank">
-            <img src="
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+          </a>
+          <!-- AWS -->
+          <a href="https://aws.amazon.com/" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+          </a>
+          <!-- HTML5 -->
+          <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+          </a>
+          <!-- Git -->
+          <a href="https://git-scm.com/" target="_blank">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+          </a>
+          <!-- Django -->
+          <a href="https://www.djangoproject.com/" target="_blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+          </a>
+        </div>
+      </section>
+
+      <section id="stats">
+        <h2>GitHub Stats</h2>
+        <div class="stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miladpnh&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Top Languages">
+          <img src="https://github-readme-stats.vercel.app/api?username=miladpnh&show_icons=true&locale=en" alt="GitHub Stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=miladpnh&" alt="Streak Stats">
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <p>© 2025 Milad Panahi. All rights reserved.</p>
+  </footer>
+
+  <!-- Intersection Observer to reveal sections -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const sections = document.querySelectorAll("section");
+      const options = { threshold: 0.1 };
+
+      const observer = new IntersectionObserver((entries, obs) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            obs.unobserve(entry.target);
+          }
+        });
+      }, options);
+
+      sections.forEach(section => {
+        observer.observe(section);
+      });
+    });
+  </script>
+</body>
+</html>
