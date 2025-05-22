@@ -92,6 +92,47 @@
 
     /* Footer */
     .footer { text-align: center; padding: 20px 0; color: #777; }
+
+
+        /* Erdős Number Section Styling */
+    #erdos-number h3, #erdos-number h4 { /* Style for the new subheadings */
+      margin-top: 20px;
+      margin-bottom: 10px;
+      color: #333; /* Or your preferred heading color */
+    }
+    #erdos-number h4 {
+        font-size: 1.1rem; /* Slightly smaller than h3 if needed */
+    }
+    .erdos-chain {
+      list-style: none; /* Removes default bullets */
+      padding-left: 0; /* Removes default padding */
+      margin-bottom: 20px; /* Space after a chain list */
+    }
+    .erdos-chain li {
+      padding: 8px 0; /* More padding for readability */
+      border-bottom: 1px dashed #eee; /* Light separator line */
+      font-size: 0.95rem; /* Slightly adjust font size if needed */
+    }
+    .erdos-chain li:last-child {
+      border-bottom: none;
+    }
+    .erdos-chain strong {
+      color: #2c3e50; /* A slightly darker, professional color for names */
+      font-weight: 600;
+    }
+    .erdos-chain em { /* For the optional paper title part */
+        font-size: 0.85rem;
+        color: #777;
+    }
+    .erdos-chain a {
+      color: #e91e63; /* Your existing link color */
+      text-decoration: none;
+      font-weight: 500; /* Make links a bit bolder */
+    }
+    .erdos-chain a:hover {
+      text-decoration: underline;
+    }
+    
   </style>
 </head>
 <body>
@@ -105,6 +146,7 @@
         <li><a href="#articles">Publications</a></li>
         <li><a href="#connect">Connect</a></li>
         <li><a href="#extra">Extra</a></li>
+        <li><a href="#erdos-number">Erdős Number</a></li> 
         <li><a href="#technical skills">Technical Skills</a></li>
         <li><a href="#stats">Stats</a></li>
       </ul>
@@ -195,6 +237,139 @@
         <h2>My CV</h2>
         <p>You can view my CV <a href="https://github.com/miladpnh/MiladPnh.github.io/blob/main/Milad_Panahi_CV.pdf" target="_blank">here</a>.</p>
       </section>
+
+          <div class="container">
+      <!-- ... your existing sections (about, work, articles, connect, extra) ... -->
+
+      <section id="extra">
+        <h2>Ask Me About</h2>
+        <!-- ... content of extra ... -->
+        <h2>My CV</h2>
+        <p>You can view my CV <a href="https://github.com/miladpnh/MiladPnh.github.io/blob/main/Milad_Panahi_CV.pdf" target="_blank">here</a>.</p>
+      </section>
+
+      <!-- PASTE THE NEW ERDŐS NUMBER SECTION HTML HERE -->
+      <section id="erdos-number">
+        <h2>My Erdős Number Connections</h2>
+        <p>
+          I'm fascinated by the web of collaborations in science and mathematics that the Erdős number represents. 
+          Through my supervisors and mentors, I have several paths connecting me to the legendary Paul Erdős.
+        </p>
+        <p>
+          My current shortest Erdős number is <strong>5</strong>, achieved through collaborations during my PhD. I also have connections with an Erdős number of 6 from earlier research experiences. It's a fun goal to see this number decrease as my collaborative network grows!
+        </p>
+
+        <h3>Paths to Erdős (PhD Supervisor Connections - Erdős Number 5):</h3>
+        
+        <h4>Path 1: Via Prof. Alberto Guadagnini (Supervisor)</h4>
+        <ul class="erdos-chain">
+          <li><strong>Milad Panahi</strong> (Me) coauthored with
+            <a href="https://www.mipore.polimi.it/dt_team/alberto-guadagnini/" target="_blank">Alberto Guadagnini</a>
+            <em><!-- Optional: (Your Paper Title, Year) --></em>
+          </li>
+          <li>
+            <strong>Alberto Guadagnini</strong> was supervised by (and has collaborated with)
+            <a href="https://www.mathgenealogy.org/id.php?id=61619" target="_blank">Shlomo P. Neuman</a> 
+          </li>
+          <li>
+            <strong>Shlomo P. Neuman</strong> (Erdős No. 3) coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=0739311" target="_blank">Newman, Charles M.</a> (MR0739311)
+          </li>
+          <li>
+            <strong>Newman, Charles M.</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=1999417" target="_blank">Diaconis, Persi W.</a> (MR1999417)
+          </li>
+          <li>
+            <strong>Diaconis, Persi W.</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=2126886" target="_blank">Erdős, Paul</a> (MR2126886)
+          </li>
+        </ul>
+
+        <h4>Path 2: Via Prof. Giovanni Michele Porta (Supervisor)</h4>
+        <ul class="erdos-chain">
+          <li><strong>Milad Panahi</strong> (Me) coauthored with
+            <a href="YOUR_LINK_TO_GIOVANNI_PORTA_PROFILE_OR_PAPER" target="_blank">Giovanni Michele Porta</a>
+            <em><!-- Optional: (Your Paper Title, Year) --></em>
+          </li>
+          <li>
+            <strong>Porta, Giovanni Michele</strong> (Erdős No. 4) coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=3568234" target="_blank">Berkowitz, Brian</a> (MR3568234)
+          </li>
+          <li>
+            <strong>Berkowitz, Brian</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=2183714" target="_blank">Barkai, Naama</a> (MR2183714)
+          </li>
+          <li>
+            <strong>Barkai, Naama</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=2779292" target="_blank">Alon, Noga</a> (MR2779292)
+          </li>
+          <li>
+            <strong>Alon, Noga</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=1899117" target="_blank">Erdős, Paul</a> (MR1899117)
+          </li>
+        </ul>
+
+        <h3>Other Connections (Previous Research/Mentorship - Erdős Number 6):</h3>
+
+        <h4>Path 3: Via Prof. Hoshin V. Gupta & Dr. Ali Behrangi (Mentors)</h4>
+        <ul class="erdos-chain">
+          <li><strong>Milad Panahi</strong> (Me) collaborated with/mentored by
+            <a href="YOUR_LINK_TO_ALI_BEHRANGI_PROFILE" target="_blank">Ali Behrangi</a> & <a href="https://scholar.google.com/citations?user=eirzNSoAAAAJ&hl=en" target="_blank">Hoshin V. Gupta</a>
+          </li>
+          <li>
+            <strong>Behrangi, Ali</strong> (Erdős No. 5) coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=4289142" target="_blank">Gupta, Hoshin V.</a> (MR4289142)
+          </li>
+          <li>
+            <strong>Gupta, Hoshin V.</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=3079655" target="_blank">Carrera, Jesús</a> (MR3079655)
+          </li>
+          <li>
+            <strong>Carrera, Jesús</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=1391159" target="_blank">Szigeti, Ferenc</a> (MR1391159)
+          </li>
+          <li>
+            <strong>Szigeti, Ferenc</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=0275311" target="_blank">Gerencsér, László</a> (MR0275311)
+          </li>
+          <li>
+            <strong>Gerencsér, László</strong> coauthored with
+            <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=0321803" target="_blank">Erdős, Paul</a> (MR0321803)
+          </li>
+        </ul>
+        
+        <h4>Path 4: Via Prof. Xubin Zeng (Mentor)</h4>
+        <ul class="erdos-chain">
+            <li><strong>Milad Panahi</strong> (Me) collaborated with/mentored by 
+                <a href="YOUR_LINK_TO_XUBIN_ZENG_PROFILE" target="_blank">Xubin Zeng</a>
+            </li>
+            <li>
+                <strong>Zeng, Xubin</strong> (Erdős No. 5) coauthored with 
+                <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=1160266" target="_blank">Eykholt, R.</a> (MR1160266)
+            </li>
+            <li>
+                <strong>Eykholt, R.</strong> coauthored with 
+                <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=0876912" target="_blank">Domany, Eytan</a> (MR0876912)
+            </li>
+            <li>
+                <strong>Domany, Eytan</strong> coauthored with 
+                <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=0935302" target="_blank">Kandel, Daniel</a> (MR0935302)
+            </li>
+            <li>
+                <strong>Kandel, Daniel</strong> coauthored with 
+                <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=1420298" target="_blank">Winkler, Peter Mann</a> (MR1420298)
+            </li>
+            <li>
+                <strong>Winkler, Peter Mann</strong> coauthored with 
+                <a href="https://mathscinet.ams.org/mathscinet/search/publications.html?pg1=MR&s1=0975996" target="_blank">Erdős, Paul</a> (MR0975996)
+            </li>
+        </ul>
+
+        <p style="margin-top: 20px;">
+          <em>You can explore collaboration distances using tools like the <a href="https://mathscinet.ams.org/mathscinet/collaborationDistance.html" target="_blank">AMS MathSciNet Collaboration Distance Calculator</a>.</em>
+        </p>
+      </section>
+      <!-- END OF ERDŐS NUMBER SECTION -->
 
       <section id="technical skills">
         <h2>Languages, Tools, and technical skills</h2>
